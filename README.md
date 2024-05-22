@@ -4,6 +4,6 @@ Customized version of [the Cyberpunk Free Font](https://fontsrepo.com/cyberpunk-
 
 ## TODO
 
-[ ] Create kerning for all latin letters (WIP)
-[ ] Adjust sizes of letters (WIP)
-[ ] Replace capital B and D with actually capital letters
+- [ ] Create kerning for all latin letters (WIP)
+- [ ] Adjust sizes of letters (WIP)
+- [ ] Replace capital B and D with actually capital letters
