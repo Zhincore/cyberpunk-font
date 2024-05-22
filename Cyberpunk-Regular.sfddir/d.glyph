@@ -1,0 +1,141 @@
+StartChar: d
+Encoding: 100 100 34
+Width: 630
+GlyphClass: 1
+Flags: HMW
+HStem: 91 76<201 210 210 225>
+VStem: 59 95<-115 -63> 59 598<-115 457>
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 616
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+HStem: 89 74<196.5 205 205 220>
+VStem: 58 93<-112 -61.5> 58 584<-112 446>
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 1
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 616
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+279 106 m 1xa0
+ 243 109 l 2
+ 226 111 203 113 176 114 c 2
+ 161 114 l 2
+ 144 114 143 112 134 77 c 0
+ 133 75 132 69 131 60 c 0
+ 130 52 125 48 115 48 c 0
+ 105 48 100 46 100 42 c 0
+ 100 34 124 37 124 34 c 0
+ 124 32 121 20 115 -1 c 0
+ 110 -21 107 -34 107 -39 c 0
+ 107 -42 108 -44 110 -44 c 0
+ 113 -44 123 -36 140 -19 c 0xc0
+ 169 10 193 25 212 25 c 2
+ 215 25 l 2
+ 228 24 234 25 234 30 c 0
+ 234 34 230 36 222 36 c 0
+ 215 36 211 37 211 40 c 0
+ 211 45 222 57 244 76 c 2
+ 279 106 l 1xa0
+570 443 m 0
+ 583 463 592 473 597 473 c 0
+ 598 473 598 472 598 470 c 0
+ 598 461 590 443 575 415 c 0
+ 560 390 553 374 553 367 c 0
+ 553 363 555 358 559 351 c 2
+ 569 334 l 1
+ 455 200 l 2
+ 410 147 353 81 286 0 c 0
+ 249 -44 214 -77 181 -100 c 2
+ 131 -134 l 1
+ 74 -112 l 2
+ 42 -98 14 -91 14 -83 c 0
+ 14 -63 18 -29 26 18 c 2
+ 42 119 l 1
+ 59 140 78 163 101 188 c 1
+ 353 188 l 1
+ 420 271 l 2
+ 461 323 493 359 515 379 c 0
+ 531 393 549 414 570 443 c 0
+EndSplineSet
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+286 109 m 1xa0
+ 249 112 l 2
+ 232 114 208 116 180 117 c 2
+ 165 117 l 2
+ 148 117 146 115 137 79 c 0
+ 136 77 135 70 134 61 c 0
+ 133 53 128 49 118 49 c 0
+ 108 49 102 47 102 43 c 0
+ 102 35 127 38 127 35 c 0
+ 127 33 124 21 118 -1 c 0
+ 113 -21 110 -35 110 -40 c 0
+ 110 -43 111 -45 113 -45 c 0
+ 116 -45 126 -36 143 -19 c 0xc0
+ 173 11 198 26 217 26 c 2
+ 220 26 l 2
+ 233 25 240 26 240 31 c 0
+ 240 35 235 37 227 37 c 0
+ 220 37 216 38 216 41 c 0
+ 216 46 227 59 250 78 c 2
+ 286 109 l 1xa0
+584 454 m 0
+ 597 474 606 484 611 484 c 0
+ 612 484 612 483 612 481 c 0
+ 612 472 604 454 589 425 c 0
+ 574 399 566 383 566 376 c 0
+ 566 372 568 366 572 359 c 2
+ 583 342 l 1
+ 466 205 l 2
+ 420 151 362 83 293 0 c 0
+ 255 -45 219 -78 185 -102 c 2
+ 134 -137 l 1
+ 76 -115 l 2
+ 43 -101 14 -93 14 -85 c 0
+ 14 -65 19 -30 27 18 c 2
+ 43 122 l 1
+ 60 144 79 167 103 193 c 1
+ 361 193 l 1
+ 430 278 l 2
+ 472 331 504 368 527 388 c 0
+ 543 402 562 424 584 454 c 0
+EndSplineSet
+EndChar

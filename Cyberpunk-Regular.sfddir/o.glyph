@@ -1,0 +1,124 @@
+StartChar: o
+Encoding: 111 111 45
+Width: 466
+GlyphClass: 1
+Flags: HMW
+HStem: -171 80
+VStem: 58 84<-39 -36> 58 453<-54 11> 416 95
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 456
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+HStem: -167 78
+VStem: 57 82<-38 -35.5> 57 442<-53 10.5> 406 93
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 1
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 456
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+314 210 m 4xd0
+ 299 226 289 234 283 234 c 4
+ 276 233 255 224 218 205 c 4
+ 181 186 157 172 144 162 c 4
+ 135 155 124 140 111 117 c 4
+ 98 94 89 74 86 58 c 4
+ 85 57 85 55 85 52 c 4
+ 85 44 94 33 113 19 c 4
+ 132 5 146 -2 157 -2 c 4
+ 160 -2 168 -1 181 0 c 4
+ 276 9 344 47 352 95 c 4
+ 353 98 353 103 353 110 c 4
+ 353 143 337 185 314 210 c 4xd0
+307 307 m 4
+ 372 310 408 312 416 312 c 4
+ 431 312 439 310 439 307 c 4
+ 439 302 432 297 418 294 c 4
+ 400 289 391 282 391 274 c 4
+ 391 269 395 257 404 238 c 4
+ 414 218 423 192 432 160 c 4
+ 441 127 445 104 445 89 c 4
+ 445 86 444 83 444 82 c 4
+ 441 71 430 54 409 30 c 4
+ 388 6 369 -13 351 -26 c 4
+ 309 -57 253 -74 182 -79 c 6
+ 120 -82 l 5
+ 62 -32 l 6
+ 14 9 3 21 3 45 c 4
+ 3 56 6 72 12 92 c 4
+ 30 161 67 213 122 249 c 4
+ 179 286 227 302 307 307 c 4
+EndSplineSet
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+322 215 m 4xd0
+ 307 231 296 240 290 240 c 4
+ 283 239 261 229 223 210 c 4
+ 185 191 160 176 147 166 c 4
+ 138 159 127 144 114 120 c 4
+ 101 96 91 75 88 59 c 4
+ 87 58 87 56 87 53 c 4
+ 87 45 97 33 116 19 c 4
+ 135 5 150 -2 161 -2 c 4
+ 164 -2 172 -1 185 0 c 4
+ 282 9 352 48 360 97 c 4
+ 361 100 361 106 361 113 c 4
+ 361 147 346 189 322 215 c 4xd0
+314 314 m 4
+ 381 317 418 319 426 319 c 4
+ 441 319 450 317 450 314 c 4
+ 450 309 442 304 428 301 c 4
+ 410 296 400 289 400 281 c 4
+ 400 276 405 263 414 244 c 4
+ 424 224 433 197 442 164 c 4
+ 451 130 456 106 456 91 c 4
+ 456 88 455 85 455 84 c 4
+ 452 73 441 56 419 31 c 4
+ 397 6 377 -14 359 -27 c 4
+ 316 -59 259 -76 186 -81 c 6
+ 123 -84 l 5
+ 63 -33 l 6
+ 14 9 3 21 3 46 c 4
+ 3 57 6 74 12 94 c 4
+ 30 165 69 218 125 255 c 4
+ 183 293 232 309 314 314 c 4
+EndSplineSet
+Kerns2: 42 -34 "'kern' Horizontal Kerning in Latin lookup 0-1" 48 -41 "'kern' Horizontal Kerning in Latin lookup 0-1"
+EndChar
