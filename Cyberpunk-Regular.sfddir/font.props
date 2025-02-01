@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1529026724
-ModificationTime: 1716387862
+ModificationTime: 1738427369
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,6 +57,7 @@ OS2XHeight: 270
 OS2Vendor: 'CLGR'
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
+Lookup: 4 0 0 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'vkrn' Vertical Kerning in Latin lookup 0" { "'vkrn' Vertical Kerning in Latin lookup 0-1" [150,15,0] } ['vkrn' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) 'vkrn' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -68,7 +69,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 18 6
+WinInfo: 65340 18 6
 BeginPrivate: 4
 BlueValues 21 [0 0 469 469 813 813]
 OtherBlues 11 [-264 -264]

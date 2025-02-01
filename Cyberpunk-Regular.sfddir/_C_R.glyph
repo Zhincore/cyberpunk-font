@@ -5,36 +5,10 @@ GlyphClass: 1
 Flags: HW
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-UndoOperation
-Index: 0
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 260
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-EndUndoOperation
-UndoOperation
-Index: 1
 Type: 1
 WasModified: 0
 WasOrder2: 0

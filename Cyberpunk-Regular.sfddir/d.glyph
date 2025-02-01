@@ -7,38 +7,10 @@ HStem: 91 76<201 210 210 225>
 VStem: 59 95<-115 -63> 59 598<-115 457>
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-UndoOperation
-Index: 0
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 616
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-HStem: 89 74<196.5 205 205 220>
-VStem: 58 93<-112 -61.5> 58 584<-112 446>
-EndUndoOperation
-UndoOperation
-Index: 1
 Type: 1
 WasModified: 0
 WasOrder2: 0
@@ -48,48 +20,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-SplineSet
-279 106 m 1xa0
- 243 109 l 2
- 226 111 203 113 176 114 c 2
- 161 114 l 2
- 144 114 143 112 134 77 c 0
- 133 75 132 69 131 60 c 0
- 130 52 125 48 115 48 c 0
- 105 48 100 46 100 42 c 0
- 100 34 124 37 124 34 c 0
- 124 32 121 20 115 -1 c 0
- 110 -21 107 -34 107 -39 c 0
- 107 -42 108 -44 110 -44 c 0
- 113 -44 123 -36 140 -19 c 0xc0
- 169 10 193 25 212 25 c 2
- 215 25 l 2
- 228 24 234 25 234 30 c 0
- 234 34 230 36 222 36 c 0
- 215 36 211 37 211 40 c 0
- 211 45 222 57 244 76 c 2
- 279 106 l 1xa0
-570 443 m 0
- 583 463 592 473 597 473 c 0
- 598 473 598 472 598 470 c 0
- 598 461 590 443 575 415 c 0
- 560 390 553 374 553 367 c 0
- 553 363 555 358 559 351 c 2
- 569 334 l 1
- 455 200 l 2
- 410 147 353 81 286 0 c 0
- 249 -44 214 -77 181 -100 c 2
- 131 -134 l 1
- 74 -112 l 2
- 42 -98 14 -91 14 -83 c 0
- 14 -63 18 -29 26 18 c 2
- 42 119 l 1
- 59 140 78 163 101 188 c 1
- 353 188 l 1
- 420 271 l 2
- 461 323 493 359 515 379 c 0
- 531 393 549 414 570 443 c 0
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -138,4 +68,5 @@ SplineSet
  472 331 504 368 527 388 c 0
  543 402 562 424 584 454 c 0
 EndSplineSet
+Kerns2: 31 -258 "'kern' Horizontal Kerning in Latin lookup 0-1" 39 -186 "'kern' Horizontal Kerning in Latin lookup 0-1" 35 -274 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar

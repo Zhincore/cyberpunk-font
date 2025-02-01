@@ -7,38 +7,10 @@ HStem: -189 18
 VStem: 190 12<278 279 270 281>
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-UndoOperation
-Index: 0
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 644
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-HStem: -185 18
-VStem: 186 12<271 272.5 263.5 274.5>
-EndUndoOperation
-UndoOperation
-Index: 1
 Type: 1
 WasModified: 0
 WasOrder2: 0
@@ -48,42 +20,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-SplineSet
-362 -44 m 1
- 361 -43 359 -42 354 -41 c 0
- 347 -42 345 -43 347 -44 c 0
- 352 -45 357 -45 362 -44 c 1
-142 369 m 0
- 142 374 154 376 154 363 c 0
- 154 358 158 356 167 356 c 0
- 169 356 179 357 196 358 c 0
- 203 359 211 359 220 359 c 0
- 235 359 243 356 243 349 c 0
- 243 348 242 343 239 335 c 0
- 227 306 204 245 171 150 c 0
- 137 55 120 5 120 0 c 0
- 120 -4 150 -8 210 -11 c 0
- 281 -14 328 -18 351 -21 c 0
- 373 -24 385 -28 387 -33 c 0
- 389 -38 398 -46 414 -56 c 0
- 425 -62 438 -66 451 -68 c 0
- 464 -69 494 -70 541 -70 c 0
- 612 -70 648 -72 648 -75 c 0
- 648 -78 622 -81 570 -84 c 0
- 517 -87 463 -88 408 -88 c 0
- 355 -88 323 -85 312 -79 c 0
- 302 -73 251 -68 159 -63 c 0
- 72 -60 24 -57 17 -55 c 0
- 16 -54 15 -52 15 -50 c 0
- 15 -34 45 52 45 50 c 1
- 45 52 52 51 59 49 c 0
- 60 48 62 48 65 48 c 0
- 71 48 78 57 86 75 c 0
- 97 99 110 145 127 212 c 0
- 142 273 150 311 150 326 c 0
- 150 330 149 335 148 342 c 0
- 144 358 142 367 142 369 c 0
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -126,5 +62,5 @@ SplineSet
  154 338 153 343 152 350 c 0
  148 366 145 376 145 378 c 0
 EndSplineSet
-Kerns2: 45 -238 "'kern' Horizontal Kerning in Latin lookup 0-1" 52 -341 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 4 -134 "'kern' Horizontal Kerning in Latin lookup 0-1" 29 -304 "'kern' Horizontal Kerning in Latin lookup 0-1" 25 -193 "'kern' Horizontal Kerning in Latin lookup 0-1" 19 -235 "'kern' Horizontal Kerning in Latin lookup 0-1" 13 -249 "'kern' Horizontal Kerning in Latin lookup 0-1" 9 -262 "'kern' Horizontal Kerning in Latin lookup 0-1" 5 -207 "'kern' Horizontal Kerning in Latin lookup 0-1" 53 -255 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -290 "'kern' Horizontal Kerning in Latin lookup 0-1" 35 -235 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -249 "'kern' Horizontal Kerning in Latin lookup 0-1" 39 -284 "'kern' Horizontal Kerning in Latin lookup 0-1" 45 -238 "'kern' Horizontal Kerning in Latin lookup 0-1" 52 -341 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar

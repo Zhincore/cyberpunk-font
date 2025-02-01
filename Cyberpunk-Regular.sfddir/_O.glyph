@@ -7,38 +7,10 @@ HStem: -202 117
 VStem: 58 701<-22 69>
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-UndoOperation
-Index: 0
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 723
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-EndUndoOperation
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-HStem: -197 114
-VStem: 57 685<-21.5 67>
-EndUndoOperation
-UndoOperation
-Index: 1
 Type: 1
 WasModified: 0
 WasOrder2: 0
@@ -48,67 +20,6 @@ VWidth: 1000
 LBearingChange: 0
 UnicodeEnc: 0
 InstructionsLength: 0
-SplineSet
-530 120 m 1
- 541 127 519 127 530 120 c 1
-87 203 m 1
- 90 200 l 2
- 95 197 98 198 101 201 c 0
- 102 203 101 204 98 204 c 2
- 93 204 l 2
- 90 204 88 204 87 203 c 1
-79 247 m 0
- 62 263 25 243 68 241 c 0
- 77 241 82 242 83 243 c 0
- 83 244 82 246 79 247 c 0
-154 277 m 0
- 161 277 163 281 159 289 c 0
- 157 294 154 296 151 296 c 0
- 147 296 145 293 145 287 c 0
- 145 280 148 277 154 277 c 0
-533 303 m 0
- 512 368 482 409 441 425 c 1
- 439 425 l 2
- 428 425 396 412 343 385 c 0
- 290 358 252 337 230 320 c 0
- 208 304 194 296 189 296 c 0
- 184 296 182 294 185 290 c 2
- 185 289 l 1
- 186 287 l 2
- 186 279 179 264 166 243 c 0
- 152 222 142 211 136 210 c 2
- 135 210 l 1
- 129 208 l 1
- 130 208 132 208 135 207 c 0
- 142 205 145 200 142 191 c 0
- 141 187 133 164 130 153 c 2
- 122 128 l 1
- 144 111 176 86 219 51 c 1
- 254 55 l 2
- 319 63 379 77 432 97 c 0
- 507 126 545 171 545 234 c 0
- 545 255 541 278 533 303 c 0
-491 538 m 0
- 592 541 647 543 654 543 c 0
- 671 543 679 542 679 539 c 0
- 679 528 665 521 638 517 c 0
- 622 515 609 508 600 497 c 0
- 587 480 587 481 599 469 c 0
- 623 442 647 383 670 291 c 0
- 684 237 691 206 691 198 c 0
- 691 191 682 175 663 149 c 0
- 644 123 624 99 604 78 c 0
- 559 31 512 -3 461 -24 c 0
- 410 -45 345 -57 264 -60 c 2
- 179 -63 l 1
- 118 -10 l 2
- 63 38 30 68 21 79 c 0
- 11 91 6 105 6 122 c 0
- 6 178 20 235 48 293 c 0
- 97 396 192 470 333 517 c 0
- 355 524 375 529 393 532 c 0
- 410 534 443 536 491 538 c 0
-EndSplineSet
 EndUndoOperation
 EndUndoes
 Redoes
@@ -179,5 +90,5 @@ SplineSet
  364 536 384 542 402 545 c 0
  419 547 454 549 503 551 c 0
 EndSplineSet
-Kerns2: 16 -253 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 22 -82 "'kern' Horizontal Kerning in Latin lookup 0-1" 16 -143 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
