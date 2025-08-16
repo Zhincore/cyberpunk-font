@@ -186,5 +186,5 @@ SplineSet
  556.443359375 567.7734375 563.33984375 573.978515625 563.33984375 576.3046875 c 0
  563.33984375 577.856445312 569.25 587.939453125 579.1015625 607.329101562 c 0
 EndSplineSet
-Kerns2: 5 -151 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -171 "'kern' Horizontal Kerning in Latin lookup 0-1" 13 -144 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 35 -164 "'kern' Horizontal Kerning in Latin lookup 0-1" 5 -151 "'kern' Horizontal Kerning in Latin lookup 0-1" 31 -171 "'kern' Horizontal Kerning in Latin lookup 0-1" 13 -144 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar

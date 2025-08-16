@@ -64,18 +64,6 @@ SplineSet
  32 271 22 284 20 295 c 0x60
 EndSplineSet
 EndUndoOperation
-UndoOperation
-Index: 1
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 643
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-EndUndoOperation
 EndUndoes
 Redoes
 EndRedoes

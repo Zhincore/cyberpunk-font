@@ -76,5 +76,5 @@ SplineSet
  121 298 107 303 97 303 c 0
  84 303 80 309 88 318 c 0
 EndSplineSet
-Kerns2: 35 -113 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 51 -106 "'kern' Horizontal Kerning in Latin lookup 0-1" 35 -113 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
